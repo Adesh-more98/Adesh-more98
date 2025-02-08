@@ -35,7 +35,7 @@ Good references:
   * **Analysis Techniques:** Time Series Analysis, Regression, A/B testing, Data Research, Data Extraction, Data Transformation, 
 Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ETL, Statistics
   * **Languages:** Python, SQL, R, Java, HTML, CSS, JavaScript.
-  * **Cloud Services:** Microsoft Azure, Amazon Web Services(AWS).
+  * **Cloud Services:** Microsoft Azure, Amazon Web Services(AWS), GCP, IBM.
 - Connect with me: **admore@syr.edu**
 
 
